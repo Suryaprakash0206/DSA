@@ -47,3 +47,6 @@ int main(){
         printf("%d ",arr[i]);
     }
 }
+
+// TIME COMPLEXICITY--> O(nlogn);
+// SPACE COMPLEXICITY--> O(n);

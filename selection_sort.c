@@ -26,3 +26,6 @@ int main(){
         printf("%d ",arr[i]);
     }
 }
+
+// TIME COMPLEXICITY --> O(N^2);
+// SPACE COMPLEXICITY --> O(1);
